@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ndescalzi
-- 👀 I’m interested in ... for now... QA Automation and learn GO
-- 🌱 I’m currently learning currently QA Automation (Python+ Selenium+API) in the next month I will start with GO
+- 👀 I’m interested in ... for now... QA Automation
+- 🌱 I’m working as QA Automation (Python + Selenium + API + Cypress)
 - 📫 How to reach me https://www.linkedin.com/in/nicolasdescalzi/
 
 <!---
